@@ -1,6 +1,6 @@
 # Task Tracker Application
 
-This project demonstrates a simple **Java console-based Task Tracker application** used to manage daily tasks. It focuses on implementing core Java concepts and Object-Oriented Programming principles to perform basic task management operations.
+This project demonstrates a simple **Java console-based Task Tracker application** used to manage daily tasks. It focuses on implementing **core Java concepts** and **Object-Oriented Programming** principles to perform basic task management operations.
 
 ## Overview
 
